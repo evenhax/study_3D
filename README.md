@@ -1,3 +1,9 @@
 # study_3D
-Some materials in 3D reconstruction and the relatives in cv study.
-Please click the Wiki.
+input: path of image pair
+output: the coordinate of corresponding keypoints
+usage:run the .py file
+
+Requirement:
+  python3
+  opencv
+  numpy
